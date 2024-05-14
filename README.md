@@ -6,7 +6,7 @@
 4. Create a folder named .env in the directory where you cloned this repository.
 5. Copy paste your API keys in format below :
 
-    API_KEY = 'your api key'
+    API_KEY = 'your api key'</br>
     SECRET_KEY = 'your secret key'
 
 6. Now we have to create python virtual environment in the directory where you cloned this repository.
