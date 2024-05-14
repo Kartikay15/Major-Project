@@ -1,0 +1,6 @@
+alpaca-py
+lumibot
+python-dotenv
+alpaca_trade_api
+transformers
+torch
