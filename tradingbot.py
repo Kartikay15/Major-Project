@@ -56,7 +56,7 @@ class MLTrader(Strategy):
                     self.sell_all()
                 order = self.create_order(
                     self.symbol,
-                    10,
+                    quantity,
                     "buy",
                     type="bracket",
                     take_profit_price=last_price*1.20,
@@ -70,7 +70,7 @@ class MLTrader(Strategy):
                     self.sell_all()
                 order = self.create_order(
                     self.symbol,
-                    10,
+                    quantity,
                     "sell",
                     type="bracket",
                     take_profit_price=last_price*0.8,
