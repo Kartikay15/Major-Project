@@ -1,4 +1,4 @@
-Instructions to setup locally :
+# Instructions to setup locally :
 
 1. Create account on Alpaca at https://alpaca.markets/
 2. Go to Trading API. Here you will find your API keys.
