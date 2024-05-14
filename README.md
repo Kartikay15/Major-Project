@@ -11,8 +11,8 @@
 
 6. Now we have to create python virtual environment in the directory where you cloned this repository.
 7. Open the directory in terminal.
-8. Run command - python -m venv .venv
-9. Now to activate virtual environment run - .\\.venv\Scripts\activate
+8. Run command: python -m venv .venv
+9. Now to activate virtual environment run: .\\.venv\Scripts\activate
 10. Install all libraries mentioned in installations folder using command - pip install 'library-name'
 
 Now you are good to go to run and  expirement with the code.
