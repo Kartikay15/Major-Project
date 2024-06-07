@@ -1,0 +1,12 @@
+trader = TradingClient(config['API_KEY'], config['SECRET_KEY'], paper=True)
+
+place_order(trader,'ADBE',29,"buy")
+place_order(trader,'AAPL',5,"sell")
+place_order(trader,'INTC',17,"buy")
+place_order(trader,'SPY',11,"sell")
+
+# aapl msft amzn googl fb nvda brk-b tsla jnj v dis pypl adbe nflx intc csco pep nke mrk t 
+# com ba pfe ko xom abt mcd wmt v-z lmt qcom acn orcl avgo txn amd lly hon cost swn sbux 
+# ups gsk gs ms wm ibm zm etsy ge spy pltr intu wfc bmy amd cop mu team z ilo docu qqq pton 
+# mu wba tlt cdns splk amzn tsla sq roku crm biib ba lrcx o jpm gs shop panw arkg snap amd amgn 
+# cvs clf bb xpev nok nok dis gpro docu nndm nio clf rkt tsm t twitter nndm spce gme mvis ba
